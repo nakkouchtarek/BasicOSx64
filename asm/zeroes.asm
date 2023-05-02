@@ -1,0 +1,1 @@
+times 10240 db 0 ;; more disk memory to load
